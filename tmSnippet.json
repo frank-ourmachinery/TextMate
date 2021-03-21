@@ -27,6 +27,5 @@
             },
             "required": [ "prefix", "body" ]
         }
-    },
-    "required": [ "object" ]
+    }
 }
