@@ -3,7 +3,7 @@
     "$id": "https://raw.githubusercontent.com/frank-ourmachinery/TextMate/master/tmSnippet.json",
     "type": "object",
     "properties": {
-        "snippet": {
+        {
             "type": "object",
             "properties": {
                 "prefix": {
@@ -19,6 +19,9 @@
                     }
                 },
                 "description": {
+                    "type": "string"
+                },
+                "scope": {
                     "type": "string"
                 }
             },
