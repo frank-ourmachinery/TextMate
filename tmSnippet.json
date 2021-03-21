@@ -2,7 +2,7 @@
     "$schema": "http://json-schema.org/schema#",
     "$id": "https://raw.githubusercontent.com/frank-ourmachinery/TextMate/master/tmSnippet.json",
     "type": "object",
-    "properties": {
+    "patternProperties": {
         "^.*$": {
             "type": "object",
             "properties": {
